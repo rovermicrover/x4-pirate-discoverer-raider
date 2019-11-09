@@ -14,9 +14,9 @@ Adds a Pirate Specific Discoverer, the Discoverer Raider. It is used by the pira
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419859)
 
-[Steam Workshop]()
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1909074997)
 
 [Github](https://github.com/rovermicrover/x4-pirate-discoverer-raider)
 
