@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<add sel="/index">
+		<entry name="ship_arg_s_scout_01_pdr_macro" value="extensions\piratediscovererraider\assets\units\size_s\macros\ship_arg_s_scout_01_pdr_macro"/>
+		<entry name="storage_arg_s_scout_01_pdr_macro" value="extensions\piratediscovererraider\assets\units\size_s\macros\storage_arg_s_scout_01_pdr_macro" />
+	</add>
+</diff>

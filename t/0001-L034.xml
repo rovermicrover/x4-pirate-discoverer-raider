@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+    <add sel="//language[@id='34']/page[@id='20101']">
+        <t id="10109">(Discoverer Raider){20101,10101} {20111,1001}</t>
+        <t id="10119">{20101,10111}</t>
+    </add>
+</diff>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<remove sel="//groups/group[@name='sca_pirate_sm']/select[@marco='ship_arg_s_scout_01_a_macro']" />
+	<remove sel="//groups/group[@name='sca_pirate_sm']/select[@marco='ship_arg_s_scout_01_b_macro']" />
+	<add sel="//groups/group[@name='sca_pirate_sm']">
+		<select macro="ship_arg_s_scout_01_pdr_macro" weight="72"/>
+	</add>
+
+	<remove sel="//groups/group[@name='sca_pirate_s']/select[@marco='ship_arg_s_scout_01_a_macro']" />
+	<remove sel="//groups/group[@name='sca_pirate_s']/select[@marco='ship_arg_s_scout_01_b_macro']" />
+	<add sel="//groups/group[@name='sca_pirate_s']">
+		<select macro="ship_arg_s_scout_01_pdr_macro" weight="60"/>
+	</add>
+</diff>
